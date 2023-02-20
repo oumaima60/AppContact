@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oumaima60/AppContact.git/static/css/main.e6c13ad2.css",
+    "main.js": "/oumaima60/AppContact.git/static/js/main.f2c9b990.js",
+    "static/js/787.fc4619c9.chunk.js": "/oumaima60/AppContact.git/static/js/787.fc4619c9.chunk.js",
+    "index.html": "/oumaima60/AppContact.git/index.html",
+    "main.e6c13ad2.css.map": "/oumaima60/AppContact.git/static/css/main.e6c13ad2.css.map",
+    "main.f2c9b990.js.map": "/oumaima60/AppContact.git/static/js/main.f2c9b990.js.map",
+    "787.fc4619c9.chunk.js.map": "/oumaima60/AppContact.git/static/js/787.fc4619c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f2c9b990.js"
+  ]
+}
